@@ -28,3 +28,14 @@
 [F-Secure(Cybersecurity software)](https://www.f-secure.com)  
 [Bitdefender is a Romanian cybersecurity technology company](https://www.bitdefender.com)  
 [GData (Google Data Protocol)](https://www.gdatasoftware.com/)
+
+
+## DATABASE
+
+**Because of clamAV is OpenSource it's Database is Free and You Can Downlaod it Easly**
+
+[ClamAV Databasa Download](https://database.clamav.net/daily.cvd)
+
+**Comodo is Another Company Have Share Malware Database and You Can Easily Download it**
+[Comodo Database](https://www.comodo.com/home/internet-security/updates/vdp/database.php)
+
