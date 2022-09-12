@@ -24,7 +24,7 @@
 [Comodo Security Solutions](https://www.comodo.com/)  
 [Avast Premium Security](https://www.avast.com)  
 [Malwarebytes Inc.](https://www.malwarebytes.com)  
-[chomar(Antivirus From Turkey)](https://www.chomar.com.t)  
+[chomar(Antivirus From Turkey)](https://www.chomar.com.tr)  
 [F-Secure(Cybersecurity software)](https://www.f-secure.com)  
 [Bitdefender is a Romanian cybersecurity technology company](https://www.bitdefender.com)  
 [GData (Google Data Protocol)](https://www.gdatasoftware.com/)
